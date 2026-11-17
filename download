@@ -1,0 +1,7 @@
+# Generated when you run the scripts (examples/ keeps a saved copy)
+/sample_login.log
+/suspicious_ips.csv
+
+# Python
+__pycache__/
+*.pyc

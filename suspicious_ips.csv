@@ -1,0 +1,4 @@
+ip,first_flagged,peak_failures_in_window,total_failures,usernames_tried
+198.51.100.7,2026-11-17 09:09:34,15,15,admin;guest;root
+185.220.101.9,2026-11-17 10:07:47,13,13,admin;guest;root
+203.0.113.45,2026-11-17 09:52:34,8,8,guest;root
